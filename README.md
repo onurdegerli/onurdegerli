@@ -22,6 +22,7 @@ As a developer, I pasinate to solve offline problems in online world.
 - 👁️ JavaScript, SASS, CSS
 - 💽 MySQL
 - ♻️ Google Pub/Sub, Rabbitmq
+- 🧑‍🎓 Golang, React Native
 
 ## My GitHub stats
 
