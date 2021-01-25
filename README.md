@@ -6,9 +6,12 @@
 Talking about Personal Stuffs:
 
 👨🏻‍💻 I’m currently working [@Boozt](https://www.boozt.com/)
+
 🚀 I’m currently learning Golang and mobile app development with React Native
+
 📫 How to reach me: onurdegerli@gmail.com
-📝 [Resume](onurdegerli/blob/master/your-next-senior-developer-cv.pdf)
+
+📝 [Resume](onurdegerli/onurdegerli/blob/master/your-next-senior-developer-cv.pdf)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=onurdegerli&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
