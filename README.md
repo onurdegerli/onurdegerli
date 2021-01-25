@@ -22,7 +22,7 @@ As a developer, I pasinate to solve offline problems in online world.
 - 👁️ JavaScript, SASS, CSS
 - 💻 Linux, Docker, Vagrant, GIT
 - 💽 MySQL, Elastich search
-- ♻️ Google Pub/Sub, Rabbitmq
+- ♻️ Pub/Sub, Rabbitmq
 - 🧑‍🎓 Golang, React Native
 
 ## My GitHub stats
