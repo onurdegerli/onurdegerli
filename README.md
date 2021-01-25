@@ -5,6 +5,10 @@
 
 **Talking about Personal Stuffs:**
 
+I am a back-end developer. I like programming, reading and traveling.
+
+As a developer, I pasinate to solve offline problems in online world.
+
 - 👨🏻‍💻 I’m currently working [@Boozt](https://www.boozt.com/)
 - 🚀 I’m currently learning Golang and mobile app development with React Native
 - 📫 How to reach me: onurdegerli@gmail.com
