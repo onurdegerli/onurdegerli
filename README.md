@@ -20,7 +20,8 @@ As a developer, I pasinate to solve offline problems in online world.
 - 🔥 OOP, MVC, Design patterns, DRY, KISS
 - ⚙️ React, Vue
 - 👁️ JavaScript, SASS, CSS
-- 💽 MySQL
+- 💻 Linux, Docker, Vagrant, GIT
+- 💽 MySQL, Elastich search
 - ♻️ Google Pub/Sub, Rabbitmq
 - 🧑‍🎓 Golang, React Native
 
