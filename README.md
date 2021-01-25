@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Onur DEGERLI.
+# Hi there 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/onurdegerli/)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://onurdegerli.medium.com/)
