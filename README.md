@@ -18,11 +18,12 @@ As a developer, I pasinate to solve offline problems in online world.
 
 - 👨‍💻 PHP7, Symfony, Laravel
 - 🔥 OOP, MVC, Design patterns, DRY, KISS
-- ⚙️ React, Vue
-- 👁️ JavaScript, SASS, CSS
-- 💻 Linux, Docker, Vagrant, GIT
+- 💻 Linux, Docker, Vagrant
 - 💽 MySQL, Elastich search
 - ♻️ Pub/Sub, Rabbitmq
+- 🔌 GIT, Jenkins, New Relic
+- ⚙️ JavaScript, React, Vue.js
+- 👁️ SASS, CSS
 - 🧑‍🎓 Golang, React Native
 
 ## My GitHub stats
