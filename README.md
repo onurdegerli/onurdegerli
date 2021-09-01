@@ -10,7 +10,7 @@ I am a back-end developer. I like programming, reading and traveling.
 As a developer, I pasinate to solve offline problems in online world.
 
 - 👨🏻‍💻 I’m currently working [@Boozt](https://www.boozt.com/)
-- 🚀 I’m currently learning Golang and mobile app development with React Native
+- 🚀 I’m currently experiencing Nodejs and Typescript with a project.
 - 📫 How to reach me: onurdegerli@gmail.com
 - 📝 [Resume](onurdegerli/onurdegerli/blob/master/your-next-senior-developer-cv.pdf)
 
@@ -24,7 +24,7 @@ As a developer, I pasinate to solve offline problems in online world.
 - 🔌 GIT, Jenkins, New Relic
 - ⚙️ JavaScript, React, Vue.js
 - 👁️ SASS, CSS
-- 🧑‍🎓 Golang, React Native
+- 🧑‍🎓 Nodejs, Typescript
 
 ## My GitHub stats
 
