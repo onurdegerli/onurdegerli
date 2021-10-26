@@ -17,13 +17,13 @@ As a developer, I pasinate to solve offline problems in online world.
 
 - 👨‍💻 PHP7, Symfony, Laravel
 - 🔥 OOP, MVC, Design patterns, DRY, KISS
+- 🧑‍🎓 Nodejs, Typescript, React Native
 - 💻 Linux, Docker, Vagrant
 - 💽 MySQL, Elastich search
 - ♻️ Pub/Sub, Rabbitmq
 - 🔌 GIT, Jenkins, New Relic
 - ⚙️ JavaScript, React, Vue.js
 - 👁️ SASS, CSS
-- 🧑‍🎓 Nodejs, Typescript
 
 ## My GitHub stats
 
