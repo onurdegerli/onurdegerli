@@ -6,11 +6,9 @@
 
 I am a back-end developer. I like programming, reading and traveling.
 
-As a developer, I pasinate to solve offline problems in the online world.
+I’m working at [@Boozt](https://www.boozt.com/)
 
-- 👨🏻‍💻 I’m working at [@Boozt](https://www.boozt.com/)
-- 🚀 I’m experiencing Nodejs and Typescript.
-- 📫 How to reach me: onurdegerli@gmail.com
+As a developer, I pasinate to solve offline problems in the online world.
 
 ## Skills
 
