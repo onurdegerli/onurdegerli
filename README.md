@@ -6,23 +6,21 @@
 
 I am a back-end developer. I like programming, reading and traveling.
 
-As a developer, I pasinate to solve offline problems in online world.
+As a developer, I pasinate to solve offline problems in the online world.
 
-- 👨🏻‍💻 I’m currently working [@Boozt](https://www.boozt.com/)
-- 🚀 I’m currently experiencing Nodejs and Typescript with a project.
+- 👨🏻‍💻 I’m working at [@Boozt](https://www.boozt.com/)
+- 🚀 I’m experiencing Nodejs and Typescript.
 - 📫 How to reach me: onurdegerli@gmail.com
-- 📝 [Resume](onurdegerli/onurdegerli/blob/master/your-next-senior-developer-cv.pdf)
 
 ## Skills
 
 - 👨‍💻 PHP7, Symfony, Laravel
 - 🔥 OOP, MVC, Design patterns, DRY, KISS
-- 🧑‍🎓 Nodejs, Typescript, React Native
-- 💻 Linux, Docker, Vagrant
+- 🧑‍🎓 Nodejs, React, Typescript
+- 💻 Linux, Docker
 - 💽 MySQL, Elastich search
 - ♻️ Pub/Sub, Rabbitmq
-- 🔌 GIT, Jenkins, New Relic
-- ⚙️ JavaScript, React, Vue.js
+- 🔌 GIT, Jenkins, New Relic, Datadog
 - 👁️ SASS, CSS
 
 ## My GitHub stats
